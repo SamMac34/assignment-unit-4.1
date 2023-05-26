@@ -69,7 +69,7 @@ console.log( 'The last item is = ', getLast(array) );
 //    value is found and false otherwise. Use a loop;
 //    DO NOT use Array.includes, Array.indexOf, or Array.find 
 // array = [1, 2, 3, 4];
-function find(value, array)
+//function find(value, array)
 //   for(value=0, value<array.length, value++)
 //     if()
 //   return true;
